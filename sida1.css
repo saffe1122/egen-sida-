@@ -1,0 +1,60 @@
+
+nav {
+    background-color: #333;
+    color: #fff;
+  }
+  
+  nav ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  nav li {
+    display: inline;
+    margin-right: 20px;
+  }
+  
+  nav a {
+    text-decoration: none;
+    color: #fff;
+  }
+  
+  
+  header {
+    background-color: #444;
+    padding: 20px;
+    text-align: center;
+    color: #fff;
+  }
+  
+  
+  main {
+    margin: 20px;
+  }
+  
+  h1 {
+    font-size: 28px;
+  }
+  
+  h2 {
+    font-size: 24px;
+  }
+  
+  ul {
+    list-style: disc;
+    margin-left: 20px;
+  }
+  
+
+  img {
+    max-width: 100%;
+  }
+  
+
+  .sidfot {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+  }
+  
