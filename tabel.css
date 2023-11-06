@@ -43,12 +43,6 @@ caption {
 }
 
 
-th {
-    background-color: #e49090;
-    color: #000000;
-    padding: 8px;
-}
-
 
 td {
     padding: 8px;
@@ -57,7 +51,7 @@ td {
 
 
 tr:nth-child(even) {
-    background-color: #ffffff;
+    background-color: #c09595;
 }
 
 
@@ -121,4 +115,15 @@ nav {
     padding: 10px;
   }
 
+  th {
+    background-color: #333;
+    color: #ffffff;
+    padding: 8px;
+}
 
+
+
+
+tr:nth-child(even) {
+    background-color: #a39f9f; 
+}
